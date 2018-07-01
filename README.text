@@ -1,0 +1,5 @@
+用户模块完成于2018年三月
+IDE:eclipse oxygen
+框架:Spring+SpringMVC+MyBatis
+用户登录添加了横向越权和纵向越权
+密码使用MD5加密
